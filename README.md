@@ -4,8 +4,8 @@
 
 A Chrome extension that uploads a screenshot and returns a self-destructing URL — so AI coding agents running in remote SSH terminals can see your screen.
 
-[![Install](https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-f6821f?style=flat-square&logo=google-chrome&logoColor=white)](https://burnshot.dev)
-[![Website](https://img.shields.io/badge/Website-burnshot.dev-1a1a1a?style=flat-square)](https://burnshot.dev)
+[![Install](https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-f6821f?style=flat-square&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/burnshot/kfcemebkapeanfhfjbfenhdpionmhmjn)
+[![Website](https://img.shields.io/badge/Website-burnshot.dev-1a1a1a?style=flat-square)](https://chromewebstore.google.com/detail/burnshot/kfcemebkapeanfhfjbfenhdpionmhmjn)
 
 ---
 
